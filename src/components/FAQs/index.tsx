@@ -10,13 +10,13 @@ export default function FaqWrapper() {
 					<h2>
 						<AccordionButton>
 							<Box flex="1" textAlign="left">
-								XXX
+								
 							</Box>
 							<AccordionIcon />
 						</AccordionButton>
 					</h2>
 					<AccordionPanel pb={4}>
-					It's an aggregator of DEX aggregators, we query the price in 1inch, cowswap, matcha... and then offer you the best price among all of them.
+					
 					</AccordionPanel>
 				</AccordionItem>
 
