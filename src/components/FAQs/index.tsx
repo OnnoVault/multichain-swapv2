@@ -10,7 +10,7 @@ export default function FaqWrapper() {
 					<h2>
 						<AccordionButton>
 							<Box flex="1" textAlign="left">
-								What is this?
+								XXX
 							</Box>
 							<AccordionIcon />
 						</AccordionButton>
