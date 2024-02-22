@@ -655,7 +655,7 @@ export function AggregatorContainer({ tokenlist }) {
 	return (
 		<Wrapper>
 			<img
-			src="logo-dexfin.png"
+			src="logo-onno.png"
 			style={{
 				width:"160px",
 				height:"100%",
